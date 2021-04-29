@@ -1,0 +1,1 @@
+# BSUIR_RPI_IPR5_NewsAPI
