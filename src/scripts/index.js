@@ -1,6 +1,8 @@
 import '../styles/style.css';
 
-loadBy('top-headlines?country=ru&pageSize=5&page=1&');
+const initialURL = 'top-headlines?country=ru&pageSize=5&page=1&';
+
+loadBy(initialURL);
 
 let lastUrl = '', page = 0, newsCount = 0;
 
